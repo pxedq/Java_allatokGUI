@@ -1,4 +1,4 @@
-# AllatokGUI
+# Állatok - GUI
 ```
  Az allatok.csv fájl állatfajok adatait (Állatfaj;Magasság(cm);Súly(kg);Életkor(év))
  tartalmazza, pontosvesszővel elválasztva, utf-8 kódolással.
